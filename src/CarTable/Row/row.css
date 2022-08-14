@@ -1,0 +1,17 @@
+.colorDiv {
+  height: 20px;
+  width: auto;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.5);
+}
+
+.thBorder {
+  border-right: 1px solid white;
+  padding-top: 1.3em;
+}
+
+.textCenter {
+  text-align: center;
+}
